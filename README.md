@@ -1,5 +1,8 @@
-# CPUZ-DSEFix
-Exploiting CPU-Z Driver To Turn Load Unsigned Drivers
+# CallbackDisabler
+Disable ObCallbacks On Process And Thread.
+Disable PsCallbacks On Images, Process Creation And Thread Creation.
 
-# Credits
-MarkHC, https://github.com/MarkHC/HandleMaster
+Should work on WIN7 - WIN10.
+
+TODO:
+Enumerate Minifilters...
